@@ -46,7 +46,7 @@ export default function About() {
     {
       company: "GIBCE",
       position: "Junior Lab Instructor",
-      period: "2021",
+      period: "2022",
       location: "Pakistan",
       description: "As a Junior Lab Instructor for the NAVTTC Full Stack Developer course, my responsibilities include guiding students through practical coding exercises and ensuring they gain hands-on experience with both frontend and backend technologies.",
       technologies: ["Full Stack Development", "Teaching", "Mentoring"]
