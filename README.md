@@ -1,4 +1,4 @@
-# Abdul Mannan - Portfolio Website
+# Abdul Mannan Siddiqui - Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, showcasing my skills, projects, and experience as a Full Stack Developer.
 
@@ -78,7 +78,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AbdulMannan7860/portfolio-nextjs.git
+   git clone https://github.com/AbdulMannan7860/Abdul-Mannan-Siddiqui-Full-Stack-Developer.git
    cd portfolio-nextjs
    ```
 
@@ -198,10 +198,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-- **Email**: abdulmannan.dev@gmail.com
+- **Email**: webdo2016@gmail.com
 - **GitHub**: [@AbdulMannan7860](https://github.com/AbdulMannan7860)
-- **LinkedIn**: [Abdul Mannan](https://linkedin.com/in/abdulmannan)
-- **Twitter**: [@abdulmannan](https://twitter.com/abdulmannan)
+- **LinkedIn**: [Abdul Mannan](https://www.linkedin.com/in/abdul-mannan-8b1260279)
+- **Facebook**: [@abdulmannan](https://www.facebook.com/profile.php?id=100013942695820)
 
 ## 🙏 Acknowledgments
 
@@ -212,4 +212,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ❤️ by Abdul Mannan
+Made by Abdul Mannan

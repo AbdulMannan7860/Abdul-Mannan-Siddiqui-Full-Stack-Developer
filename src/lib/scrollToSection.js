@@ -1,6 +1,8 @@
-export const scrollToSection = href => {
-  const element = document.querySelector(href)
-  if (element) {
-    element.scrollIntoView({ behavior: 'smooth' })
+export const scrollToSection = (href) => {
+  if (typeof window !== "undefined") {
+    const element = document.querySelector(href);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+    }
   }
-}
+};
