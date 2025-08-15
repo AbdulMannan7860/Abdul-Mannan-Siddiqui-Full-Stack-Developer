@@ -45,8 +45,8 @@ export default function Contact() {
     {
       icon: <Globe className="w-6 h-6" />,
       title: "Website",
-      value: "abdulmannan.dev",
-      link: "https://abdulmannan.dev",
+      value: "Abdul Mannan Portfolio",
+      link: "https://abdul-mannan-siddiqui-full-stack-de.vercel.app/",
       color: "text-orange-600",
       bgColor: "bg-orange-50"
     }
