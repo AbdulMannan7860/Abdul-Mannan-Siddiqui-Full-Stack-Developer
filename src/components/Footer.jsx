@@ -23,7 +23,7 @@ export default function Footer() {
             <div className="mb-6">
               <img src="/Image1.png" className="w-24 h-24 rounded-full shadow-purple-600 shadow-sm bg-white" alt="" />
               <h3 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-4">
-                Abdul Mannan
+                Abdul Mannan Siddiqui
               </h3>
               <p className="text-gray-300 text-lg leading-relaxed max-w-md">
                 MERN-Stack developer passionate about creating innovative digital solutions
@@ -162,7 +162,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center text-gray-300 text-sm mb-4 md:mb-0">
-              <span>© {currentYear} all right reserverd to Abdul Mannan<br /> Made with using Next.js & Tailwind CSS</span>
+              <span>© {currentYear} all right reserverd to Abdul Mannan Siddiqui<br /> Made with using Next.js & Tailwind CSS</span>
             </div>
 
             <button
